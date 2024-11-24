@@ -1,5 +1,5 @@
 const sounds = ['among','banido','counter-strike',
-    'goofy','wow','xaropinho']
+    'goofy','wow','xaropinho', 'ze-da-manga']
 
 sounds.forEach(sound => {
     const btn = document.createElement('button')
